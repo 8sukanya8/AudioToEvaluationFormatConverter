@@ -1,0 +1,4 @@
+venv/
+.idea/
+src/__pycache__/
+src/segmentation_formats/__pycache__/
